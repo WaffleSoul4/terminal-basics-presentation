@@ -12,6 +12,9 @@ Uses [presenterm](https://github.com/mfontanini/presenterm)
 git clone https://github.com/WaffleSoul4/terminal-basics-presentation.git
 cd terminal-basics-presentation
 ```
-3. Run the presentation: `presenterm terminal-basics.md`
+3. Run the presentation:
+```bash
+presenterm terminal-basics.md
+```
 
 Have fun!
